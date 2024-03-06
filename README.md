@@ -1,3 +1,1 @@
-#ejercicios
-Ejercicios c++ y c#
-nombre???
+MORALES CU, GERSON OMAR

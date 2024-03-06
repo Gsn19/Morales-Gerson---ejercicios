@@ -1,0 +1,7 @@
+C:\Users\gerso\source\repos\Promedio ejercicio\Promedio ejercicio\bin\Debug\Promedio ejercicio.exe.config
+C:\Users\gerso\source\repos\Promedio ejercicio\Promedio ejercicio\bin\Debug\Promedio ejercicio.exe
+C:\Users\gerso\source\repos\Promedio ejercicio\Promedio ejercicio\bin\Debug\Promedio ejercicio.pdb
+C:\Users\gerso\source\repos\Promedio ejercicio\Promedio ejercicio\obj\Debug\Promedio ejercicio.csproj.AssemblyReference.cache
+C:\Users\gerso\source\repos\Promedio ejercicio\Promedio ejercicio\obj\Debug\Promedio ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\gerso\source\repos\Promedio ejercicio\Promedio ejercicio\obj\Debug\Promedio ejercicio.exe
+C:\Users\gerso\source\repos\Promedio ejercicio\Promedio ejercicio\obj\Debug\Promedio ejercicio.pdb

@@ -1,0 +1,7 @@
+C:\Users\gerso\source\repos\Sueldo ejercicio\Sueldo ejercicio\obj\Debug\Sueldo ejercicio.csproj.AssemblyReference.cache
+C:\Users\gerso\source\repos\Sueldo ejercicio\Sueldo ejercicio\obj\Debug\Sueldo ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\gerso\source\repos\Sueldo ejercicio\Sueldo ejercicio\bin\Debug\Sueldo ejercicio.exe.config
+C:\Users\gerso\source\repos\Sueldo ejercicio\Sueldo ejercicio\bin\Debug\Sueldo ejercicio.exe
+C:\Users\gerso\source\repos\Sueldo ejercicio\Sueldo ejercicio\bin\Debug\Sueldo ejercicio.pdb
+C:\Users\gerso\source\repos\Sueldo ejercicio\Sueldo ejercicio\obj\Debug\Sueldo ejercicio.exe
+C:\Users\gerso\source\repos\Sueldo ejercicio\Sueldo ejercicio\obj\Debug\Sueldo ejercicio.pdb
